@@ -53,6 +53,7 @@ We compare our findings to data on convictions and prosecutions of people in Eng
 
 
 ![Slide2](https://user-images.githubusercontent.com/48301423/93797416-365a9500-fc0a-11ea-83a2-8c19045c83ed.png)
+
 *Percentage of Arrests by Race: US*
 
 
@@ -65,31 +66,32 @@ As we can see from our analysis, the rates of conviction are similar across race
 
 When tempering for rates of arrests for crime type, we continue to see bias in arrests. Below, this graph represents the most commonly committed crime in our dataset across race other than "All other Crimes": DUIs.
 
+
 ![dui_us_graph_tot](https://user-images.githubusercontent.com/48301423/93775686-ba078800-fbf0-11ea-9bfa-d80f9f099a97.png)
 
-*Total DUI Arrests in the US 
+*Total DUI Arrests in the US*
 
 
 When we breakout our analysis to account for race, the racial disparities are readily apparent.
 
 ![dui_arrests_native_american](https://user-images.githubusercontent.com/48301423/93775866-ea4f2680-fbf0-11ea-9394-e843c624bc0f.png)
 
-*DUI Arrests by State: Native Americans
+*DUI Arrests by State: Native Americans*
 
 
 ![dui_arrests_black](https://user-images.githubusercontent.com/48301423/93775919-fd61f680-fbf0-11ea-800d-fa14029e0ea0.png)
 
-*DUI Arrests by State: Black Americans
+*DUI Arrests by State: Black Americans*
 
 
 ![dui_arrests_asian](https://user-images.githubusercontent.com/48301423/93776002-15397a80-fbf1-11ea-8376-2ee7067a764d.png)
 
-*DUI Arrests by State: Asian Americans
+*DUI Arrests by State: Asian Americans*
 
 
 ![dui_arrests_white](https://user-images.githubusercontent.com/48301423/93776073-2b473b00-fbf1-11ea-937a-47b9c03a224a.png)
 
-*DUI Arrests by State: White Americans
+*DUI Arrests by State: White Americans*
 
 ## Topics covered
 
