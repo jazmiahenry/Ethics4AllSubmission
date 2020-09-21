@@ -52,7 +52,7 @@ We compare our findings to data on convictions and prosecutions of people in Eng
 *Percentage of Convictions by Race: UK*
 
 
-![Slide2](https://user-images.githubusercontent.com/48301423/93797416-365a9500-fc0a-11ea-83a2-8c19045c83ed.png)
+![Slide2](https://user-images.githubusercontent.com/48301423/93803568-1380ae80-fc13-11ea-9208-33fb56351724.png)
 
 *Percentage of Arrests by Race: US*
 
