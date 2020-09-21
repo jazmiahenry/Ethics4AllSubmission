@@ -44,12 +44,16 @@ We compare our findings to data on convictions and prosecutions of people in Eng
 
 ![Slide1](https://user-images.githubusercontent.com/48301423/93796788-50e03e80-fc09-11ea-88ae-2f1951faaf15.png)
 
-*Comparison of arrests in the US versus the UK
+*Comparison of arrests in the US versus the UK*
 
 
 ![ethnicity_pnt_uk](https://user-images.githubusercontent.com/48301423/93733595-011b5c00-fba4-11ea-944b-273ccb3b793f.png)
 
-*Percentage of Convictions by Race*
+*Percentage of Convictions by Race: UK*
+
+
+![Slide2](https://user-images.githubusercontent.com/48301423/93797416-365a9500-fc0a-11ea-83a2-8c19045c83ed.png)
+*Percentage of Arrests by Race: US*
 
 
 As we can see from our analysis, the rates of conviction are similar across race in England and Wales. When we break out the data to look at raw numbers of people prosecuted in the UK, we see that prosecutions are more in comparible with the distribution of race.
