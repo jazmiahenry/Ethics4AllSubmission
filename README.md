@@ -2,8 +2,6 @@
 
 ## Jazmia's Contributions
 
-**Jazmia Henry**
-
 *(Only my contributions present on repository. For completed project, go here: https://github.com/krstnnlee/dataethics4all_criminaljustice_team1)*
 
 
