@@ -1,6 +1,6 @@
 # Ethics4All Hackathon Submission:
 
-## Criminal Justice Team 1- Jazmia's Contributions
+## Jazmia's Contributions
 
 **Jazmia Henry**
 
