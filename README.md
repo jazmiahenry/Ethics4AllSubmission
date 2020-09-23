@@ -102,7 +102,7 @@ When we breakout our analysis to account for race, the racial disparities are re
 - Criminal Justice
 - Racial Equality
 - Scatterplot
-- Logged Variables 
+- Log Normal Distribution Fitting
 - Ethical Data Analysis
 
 ## Data Sources:
