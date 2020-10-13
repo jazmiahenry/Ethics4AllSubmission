@@ -1,4 +1,4 @@
-# Ethics4All Hackathon Submission:
+# Ethics4All Hackathon Submission: 2020 Policy Track Winner
 
 ## Jazmia's Contributions
 
